@@ -1,0 +1,10 @@
+{
+  "name": "demo",
+  "epochs": 20,
+  "iter_per_epoch": 2,
+  "learning_rate": 0.001,
+  "batch_size": 5,
+  "max_to_keep": 50,
+  "reuse": true,
+  "training": true
+}
